@@ -1,3 +1,3 @@
 # Learning 
 
-- zweite EIngabe
+- erste Eingabe
